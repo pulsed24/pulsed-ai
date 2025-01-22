@@ -1,4 +1,4 @@
-# d AI GitHub Repository
+# Pulsed AI GitHub Repository
 
 Welcome to the official Pulsed AI repository. This project is dedicated to developing Solana-based AI infrastructure, integrating large language models (LLMs), federated learning frameworks, and advanced AI-driven solutions.
 
