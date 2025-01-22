@@ -1,13 +1,13 @@
-# Pulsed AI GitHub Repository
+# Pulsed Lab GitHub Repository
 
-Welcome to the official Pulsed AI repository. This project is dedicated to developing Solana-based AI infrastructure, integrating large language models (LLMs), federated learning frameworks, and advanced AI-driven solutions.
+Welcome to the official Pulsed Lab repository. This project is dedicated to developing Solana-based AI infrastructure, integrating large language models (LLMs), federated learning frameworks, and advanced AI-driven solutions.
 
 ---
 
 ## Repository Structure
 
 ```
-Pulsed-AI/
+Pulsed-Lab/
 ├── models/                   # Pre-trained and fine-tuned AI models
 ├── federated_learning/       # Federated learning training scripts and coordination modules
 ├── solana_integration/       # Smart contract integrations with TensorFlow.js and ONNX
@@ -24,8 +24,8 @@ Pulsed-AI/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/pulsed24/pulsed-ai.git
-   cd Pulsed-AI
+   git clone https://github.com/pulsed24/Pulsed-Lab.git
+   cd Pulsed-Lab
    ```
 
 2. Install required dependencies:
